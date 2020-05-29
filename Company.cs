@@ -22,7 +22,7 @@ namespace Planner
 ---------------------------------------------------
 |  Name:        | {Name}
 |  Date & Time: | {StartDate}
-|  Employees:   | {Employees}
+|  Employees:   | {Employee}
 ---------------------------------------------------
         ";
       }

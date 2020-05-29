@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TGhAwBorIGtyAf3qxpCV/QJezXoIbkLt5K7a7gm2eIx1Wxw71DRCAbjl4zLAO6akaHOl21ov/UlUWhGdDDgCag==",
+  "dgSpecHash": "wz9G9Go1+4Mv8CD8oKNgsFOfeY339tfvG6krio/gqqBCXdqu0UsmLAtj6J6FY4znCTKa1IKgUCATVGX05Q1unA==",
   "success": true,
-  "projectFilePath": "/Users/drewharper/workspace/csharp/exercises/classes/classes.csproj",
+  "projectFilePath": "/Users/drewharper/workspace/csharp/exercises/classes/Classes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

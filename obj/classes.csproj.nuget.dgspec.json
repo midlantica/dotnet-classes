@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/drewharper/workspace/csharp/exercises/classes/classes.csproj": {}
+    "/Users/drewharper/workspace/csharp/exercises/classes/Classes.csproj": {}
   },
   "projects": {
-    "/Users/drewharper/workspace/csharp/exercises/classes/classes.csproj": {
+    "/Users/drewharper/workspace/csharp/exercises/classes/Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/drewharper/workspace/csharp/exercises/classes/classes.csproj",
-        "projectName": "classes",
-        "projectPath": "/Users/drewharper/workspace/csharp/exercises/classes/classes.csproj",
+        "projectUniqueName": "/Users/drewharper/workspace/csharp/exercises/classes/Classes.csproj",
+        "projectName": "Classes",
+        "projectPath": "/Users/drewharper/workspace/csharp/exercises/classes/Classes.csproj",
         "packagesPath": "/Users/drewharper/.nuget/packages/",
         "outputPath": "/Users/drewharper/workspace/csharp/exercises/classes/obj/",
         "projectStyle": "PackageReference",
