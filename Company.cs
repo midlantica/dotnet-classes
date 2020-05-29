@@ -5,7 +5,6 @@ namespace Planner
 {
   public class Company
   {
-
     public string Name { get; set; }
     public DateTime StartDate { get; set; }
     public List<Employee> Employees { get; } = new List<Employee>();

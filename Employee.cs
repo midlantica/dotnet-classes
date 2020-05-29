@@ -10,7 +10,10 @@ namespace Planner
     public string LastName { get; set; }
     public string Title { get; set; }
     public DateTime StartDate { get; set; }
+    public Employee(){}
+    public List<string> Employees {get; set;}
 
+    //>>>>>>>>>>
     public string GetEmployeeDescription
     {
       get
